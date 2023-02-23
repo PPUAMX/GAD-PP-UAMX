@@ -3,7 +3,8 @@ output:
   pdf_document: default
   html_document: default
 ---
-![](media/image1.png){width="2.0in" height="1.0in"}
+
+![](image1.png){width="2.0in" height="1.0in"}
 
 UNIVERSIDAD AUTÓNOMA METROPOLITANA
 
@@ -86,9 +87,7 @@ Diciembre de 2021
 
 
 
-La producción primaria representa una de las funciones del ecosistema
-que es clave para la incorporación de energía y la consecuente generación de biomasa disponible para el resto de la cadena trófica. La relevancia de este proceso y su diagnóstico, como un indicador de la estructura y la función en los ecosistemas terrestres y acuáticos, es el eje teórico-metodológico-práctico de esta Unidad de Enseñanza-Aprendizaje (UEA). Al ser la producción primaria una función ecosistémica, su estudio debe ser enfocado desde diversos puntos de vista y a través de diferentes niveles de organización. Por lo tanto, es relevante comprender inicialmente los procesos fisicoquímicos y bioenergéticos que son fundamento para analizar fenómenos y procesos bioquímicos, metabólicos y fisiológicos que soportan la función ecosistémica de la producción primaria. Después, se abordan los aspectos ecofisiológicos y adaptativos de las diversas comunidades de productores primarios, sus respuestas a las variables ambientales en diversas escalas espacio-temporales, y los métodos directos e indirectos para su estudio. Incorporándose los avances sustanciales en la ecología de ecosistemas es posible entender los procesos ecosistémicos que contribuyen a la variación global en la estructura y procesos dentro de los ecosistemas. Describiendo así los mecanismos mediante los cuales los ecosistemas mantienen su funcionamiento como el flujo de agua y energía y los ciclos del carbono y nutrientes. Integrando los patrones temporales y espaciales de los procesos y considerando el efecto integral de éstos procesos a escala global y sus consecuencias en la sociedad. Finalmente, la aplicabilidad en la investigación modular, considerando los servicios ecosistémicos y el uso sustentable de los
-productores primarios terrestres y acuáticos.
+La producción primaria representa una de las funciones del ecosistema que es clave para la incorporación de energía y la consecuente generación de biomasa disponible para el resto de la cadena trófica. La relevancia de este proceso y su diagnóstico, como un indicador de la estructura y la función en los ecosistemas terrestres y acuáticos, es el eje teórico-metodológico-práctico de esta Unidad de Enseñanza-Aprendizaje (UEA). Al ser la producción primaria una función ecosistémica, su estudio debe ser enfocado desde diversos puntos de vista y a través de diferentes niveles de organización. Por lo tanto, es relevante comprender inicialmente los procesos fisicoquímicos y bioenergéticos que son fundamento para analizar fenómenos y procesos bioquímicos, metabólicos y fisiológicos que soportan la función ecosistémica de la producción primaria. Después, se abordan los aspectos ecofisiológicos y adaptativos de las diversas comunidades de productores primarios, sus respuestas a las variables ambientales en diversas escalas espacio-temporales, y los métodos directos e indirectos para su estudio. Incorporándose los avances sustanciales en la ecología de ecosistemas es posible entender los procesos ecosistémicos que contribuyen a la variación global en la estructura y procesos dentro de los ecosistemas. Describiendo así los mecanismos mediante los cuales los ecosistemas mantienen su funcionamiento como el flujo de agua y energía y los ciclos del carbono y nutrientes. Integrando los patrones temporales y espaciales de los procesos y considerando el efecto integral de éstos procesos a escala global y sus consecuencias en la sociedad. Finalmente, la aplicabilidad en la investigación modular, considerando los servicios ecosistémicos y el uso sustentable de los productores primarios terrestres y acuáticos.
 
 
 El perfil deseado del estudiante al ingresar a la UEA incluye un
