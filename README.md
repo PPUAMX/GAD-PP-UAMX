@@ -15,7 +15,7 @@ _Archivos:_
 
 - **GuiaPP.tex**  Archivo en formato LaTeX, del trabajo realizado hasta el año 2021. No es el documento de trabajo, ya que no se espera que todos los integrantes del GAD sepan utilizar LaTeX,  por lo tanto no es solo una muestra bien estructurada de como podría quedar el documento final.
 
-- **Guía_ProdPrim_documento_final22.pdf**   Es el documemto final generado en el 2022, para lectura. Contien la misma información del archivo GuiaPP.md, documento de trabajo del GAD. El archivo de origen es en formato word que no se utilizará para modificaciones por su poca facilidad de trabajo. 
+- **Guía_ProdPrim_documento_final22.pdf**   Es el documemto final generado en el 2022, para lectura. Contiene la misma información del archivo GuiaPP.md, documento de trabajo del GAD. El archivo de origen es en formato word que no se utilizará para modificaciones por su poca facilidad de edición.
 
 -  **modulo_VIII. pdf**  Módulo de Produción Primaria, utilizado actualmente. Archivo de referencia para las modificaciones del nuevo documento. 
 
